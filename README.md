@@ -1,3 +1,3 @@
-## Build a Calculator using C# Form.
+## Build a Calculator using C# Form
 ![](pictures/calculatorSS.PNG)
 

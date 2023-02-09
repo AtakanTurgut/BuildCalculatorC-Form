@@ -251,7 +251,7 @@ namespace Calculator
             {
                 txtResultScreen.Text = txtResultScreen.Text.Remove(txtResultScreen.TextLength - 1);
             }
-            else
+            if (txtResultScreen.Text.Length == 0)
             {
                 txtResultScreen.Text = "0";
             }

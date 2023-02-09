@@ -9,3 +9,14 @@ C:\Users\Excalibur\Desktop\calculator\Calculator\Calculator\obj\Debug\Calculator
 C:\Users\Excalibur\Desktop\calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
 C:\Users\Excalibur\Desktop\calculator\Calculator\Calculator\obj\Debug\Calculator.exe
 C:\Users\Excalibur\Desktop\calculator\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\Sdü Ders Notları\- Bilgisayar Müh\zcalculatorCSForm\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\Sdü Ders Notları\- Bilgisayar Müh\zcalculatorCSForm\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\Sdü Ders Notları\- Bilgisayar Müh\zcalculatorCSForm\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\Sdü Ders Notları\- Bilgisayar Müh\zcalculatorCSForm\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+D:\Sdü Ders Notları\- Bilgisayar Müh\zcalculatorCSForm\Calculator\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+D:\Sdü Ders Notları\- Bilgisayar Müh\zcalculatorCSForm\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+D:\Sdü Ders Notları\- Bilgisayar Müh\zcalculatorCSForm\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\Sdü Ders Notları\- Bilgisayar Müh\zcalculatorCSForm\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\Sdü Ders Notları\- Bilgisayar Müh\zcalculatorCSForm\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\Sdü Ders Notları\- Bilgisayar Müh\zcalculatorCSForm\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\Sdü Ders Notları\- Bilgisayar Müh\zcalculatorCSForm\Calculator\Calculator\obj\Debug\Calculator.pdb

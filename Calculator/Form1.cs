@@ -40,9 +40,9 @@ namespace Calculator
 
         private void btnComma_Click(object sender, EventArgs e)
         {
-            if (txtResultScreen.Text == null)
+            if (txtResultScreen.Text.Length == 0)
             {
-                txtResultScreen.Text = "0";
+                txtResultScreen.Text = "0,";
             }
             else
             {
